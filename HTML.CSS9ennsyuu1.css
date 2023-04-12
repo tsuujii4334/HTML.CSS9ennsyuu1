@@ -1,0 +1,12 @@
+/* ブラウザがそれぞれ持っているCSSをリセットするための記述 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.fa-brands{
+  right: 22px;
+  font-size: 32px;
+}
